@@ -1,9 +1,10 @@
 <!-- Part 1 Introduction -->
 ### 👋 Hey, I'm Tithi!
 
-You enjoy creating stunning UI designs and transforming them into functional frontend experiences.I build software projects from the ground up, starting with planning and design to tackle real-world problems through code.<br/>
 👩🏻‍💻Studied [Computer Science and Engineering](https://github.com/Sadia-Sultana-Tithi) at North South University, Dhaka, Bangladesh <br/>
 🛠 Diving into backend development, with a focus on Node.js, Express.js, and MongoDB during my spare time.<br/>
+🚀 Passionate about Artificial Intelligence and Research, with a particular focus on public health, behavioral science, and computational social science.
+
 
 <!-- part 2 -->
 
