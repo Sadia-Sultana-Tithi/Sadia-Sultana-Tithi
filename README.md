@@ -2,8 +2,7 @@
 ### 👋 Hey, I'm Tithi!
 
 👩🏻‍💻Studied [Computer Science and Engineering](https://github.com/Sadia-Sultana-Tithi) at North South University, Dhaka, Bangladesh <br/>
-🛠 Diving into backend development, with a focus on Node.js, Express.js, and MongoDB during my spare time.<br/>
-🚀 Passionate about Artificial Intelligence and Research, with a particular focus on public health, behavioral science, and computational social science.
+🚀 Passionate about Artificial Intelligence and Research, with a particular focus on machine learning and computational social science.
 
 
 <!-- part 2 -->
