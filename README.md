@@ -1,7 +1,5 @@
 <!-- Part 1 Introduction -->
 ### 👋 Hey, I'm Tithi!
-
-👋 Hi, I’m Tithi!
 🎓 Erasmus Mundus Master’s student in Cyberspace Behavior & E-Therapy<br>
 💻 Former Computer Science & Engineering student at North South University, Dhaka <br>
 🤖 Passionate about AI, machine learning, and computational social science <br>
