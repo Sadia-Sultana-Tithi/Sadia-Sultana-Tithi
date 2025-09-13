@@ -1,8 +1,11 @@
 <!-- Part 1 Introduction -->
 ### 👋 Hey, I'm Tithi!
 
-👩🏻‍💻Studied [Computer Science and Engineering](https://github.com/Sadia-Sultana-Tithi) at North South University, Dhaka, Bangladesh <br/>
-🚀 Passionate about Artificial Intelligence and Research, with a particular focus on machine learning and computational social science.
+👋 Hi, I’m Tithi!
+🎓 Erasmus Mundus Master’s student in Cyberspace Behavior & E-Therapy<br>
+💻 Former Computer Science & Engineering student at North South University, Dhaka <br>
+🤖 Passionate about AI, machine learning, and computational social science <br>
+🌐 Interested in online behavior, digital well-being, and tech-driven mental health solutions
 
 
 <!-- part 2 -->
